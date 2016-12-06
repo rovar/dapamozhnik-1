@@ -1,0 +1,85 @@
+%!Adobe-FontList 1.14
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri
+FamilyName:Calibri
+StyleName:Regular
+FullName:Calibri
+MenuName:Calibri
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\dobro\Мои документы\Dropbox\pomoshnik_velosipedista\velo_dapamozhnik_1_package\Document fonts\CALIBRI.TTF
+DataFormat:sfntData
+FileLength:811412
+FileModTime:1352969567
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Italic
+FamilyName:Calibri
+StyleName:Italic
+FullName:Calibri Italic
+MenuName:Calibri
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\dobro\Мои документы\Dropbox\pomoshnik_velosipedista\velo_dapamozhnik_1_package\Document fonts\CALIBRII.TTF
+DataFormat:sfntData
+FileLength:912248
+FileModTime:1352969567
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IrinaCTT
+FamilyName:IrinaCTT
+StyleName:Normal
+FullName:IrinaCTT
+MenuName:IrinaCTT
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Normal
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:C:\Documents and Settings\dobro\Мои документы\Dropbox\pomoshnik_velosipedista\velo_dapamozhnik_1_package\Document fonts\IrinaCTT Normal.ttf
+DataFormat:sfntData
+FileLength:48638
+FileModTime:1174504644
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Documents and Settings\dobro\Мои документы\Dropbox\pomoshnik_velosipedista\velo_dapamozhnik_1_package\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:231312
+FileModTime:1265284034
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
